@@ -6,7 +6,7 @@
 
 Personal project to be my first challenge post NLW Event of Rocketseat.
 
-[Clique aqui para acessar](https://MattDiniz.github.io/nlw-esports-explorer)
+[Clique aqui para acessar](https://mattdiniz.github.io/my-first-challenge)
 
 
 ## Tecnologias
